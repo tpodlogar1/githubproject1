@@ -1,0 +1,9 @@
+﻿  main_circle.cpp
+  ColorFilledCircle.cpp
+  ColorCircle.cpp
+  Circle.cpp
+  Generating Code...
+graphLib2017.lib(BMPLoader.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(BMPLoader.obj)' or at 'C:\Users\Tiffany\Desktop\githubproject1\Debug\graphLib2017.pdb'; linking object as if no debug info
+graphLib2017.lib(example2.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(example2.obj)' or at 'C:\Users\Tiffany\Desktop\githubproject1\Debug\graphLib2017.pdb'; linking object as if no debug info
+graphLib2017.lib(loadPng.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(loadPng.obj)' or at 'C:\Users\Tiffany\Desktop\githubproject1\Debug\graphLib2017.pdb'; linking object as if no debug info
+  githubproject1.vcxproj -> C:\Users\Tiffany\Desktop\githubproject1\Debug\githubproject1.exe
